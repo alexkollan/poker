@@ -14,7 +14,7 @@ const generate= {
         let cardCode;
     
         do{
-            
+            //hi
             let result = [];
             let randRank = Math.floor(Math.random() * 13) + 1;
             result.push(randRank);
